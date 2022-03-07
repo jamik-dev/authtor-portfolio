@@ -1,4 +1,4 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import DefaultLayout from './layouts/DefaultLayout.vue'
 
-createApp(App).mount('#app')
+createApp(DefaultLayout).mount('#app')
