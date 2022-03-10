@@ -1,4 +1,4 @@
 import { createApp } from 'vue'
-import DefaultLayout from './layouts/DefaultLayout.vue'
+import App from './App.vue'
 import router from "./routes/index.js"
-createApp(DefaultLayout).use(router).mount('#app')
+createApp(App).use(router).mount('#app')
