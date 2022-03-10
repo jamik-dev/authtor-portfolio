@@ -171,7 +171,7 @@
             <!-- Blog-Content Box End -->
           </div>
         </div>
-      </section>
+    </section>
 </template>
 
 <script>

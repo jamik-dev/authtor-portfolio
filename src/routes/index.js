@@ -16,18 +16,18 @@ const routes = [{
             component: import ('../pages/About.vue'),
         },
         {
-            path: 'services',
-            name: 'Services',
+            path: 'portfolio',
+            name: 'Portfolio',
             component: import ('../pages/Portfolio.vue'),
         },
         {
-            path: 'portfolio',
-            name: 'Portfolio',
+            path: 'blog',
+            name: 'Blog',
             component: import ('../pages/Blog.vue'),
         },
         {
-            path: 'clients',
-            name: 'Clients',
+            path: 'contact',
+            name: 'Contact',
             component: import ('../pages/Contact.vue'),
         }
     ]
