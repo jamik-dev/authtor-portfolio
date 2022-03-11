@@ -1,5 +1,5 @@
 <template>
-    <section id="home" class="section active">
+    <section id="home" class="section">
         <div class="homecolor-block"></div>
         <div class="common_bg animate__animated animate__zoomIn">
           <div class="container m-auto">
