@@ -29,10 +29,10 @@
 
                     <div class="col-12">
                       <h5 class="personal-title">who am <span>i ?</span></h5>
-                      <h3 class="personal-title">I'm Alex Smith, a visual <span>UX/UI Designer</span> and <span>Web
+                      <h3 class="personal-title">I'm Alex Smith, a visual <span>SMM </span>&<span> VideoMaker</span> & <span>Web
                           Developer</span></h3>
-                      <p class="info">I am a freelancer based in the United Kingdom and i have been building noteworthy
-                        UX/UI designs and websites for years, which comply with the latest design trends. I help convert
+                      <p class="info">I am a freelancer based in the Uzbekistan and i have been building noteworthy
+                        websites for years, which comply with the latest design trends. I help convert
                         a
                         vision and an idea into meaningful and useful products. Having a sharp eye for product evolution
                         helps me prioritize tasks, iterate fast and deliver faster.</p>
@@ -47,23 +47,23 @@
                         <ul class="about-list ">
                           <li>
                             <span class="title">first name :</span>
-                            <span class="value">Alex</span>
+                            <span class="value">Jamshid</span>
                           </li>
                           <li>
                             <span class="title">last name :</span>
-                            <span class="value">Smith</span>
+                            <span class="value">Toshov</span>
                           </li>
                           <li>
                             <span class="title">address :</span>
-                            <span class="value">98 Some Street, Some Town</span>
+                            <span class="value">Asalabad street, Yashanabad district</span>
                           </li>
                           <li>
                             <span class="title">From :</span>
-                            <span class="value">San Francisco, USA</span>
+                            <span class="value">Tashkent, Uzbekistan</span>
                           </li>
                           <li>
                             <span class="title">Age :</span>
-                            <span class="value">24 years</span>
+                            <span class="value">18 years</span>
                           </li>
                         </ul>
                       </div>
@@ -71,19 +71,19 @@
                         <ul class="about-list">
                           <li>
                             <span class="title">E-mail :</span>
-                            <span class="value"><a href="mailto:info@example.com">info@example.com</a></span>
+                            <span class="value"><a href="mailto:jamik.oik.group@gmail.com">jamik.oik.group@gmail.com</a></span>
                           </li>
                           <li>
                             <span class="title">Phone :</span>
-                            <span class="value"><a href="tel:(+01)123-456-789">(+01) 123-456-789</a></span>
+                            <span class="value"><a href="tel:+998945414635">(94) 541-46-35</a></span>
                           </li>
                           <li>
-                            <span class="title">skype :</span>
-                            <span class="value">steve.milner</span>
+                            <span class="title">telegram :</span>
+                            <span class="value">web_developer_OIK</span>
                           </li>
                           <li>
                             <span class="title">Langages :</span>
-                            <span class="value">English, German</span>
+                            <span class="value">English, Uzbek</span>
                           </li>
                           <li>
                             <span class="title">Freelance :</span>
@@ -99,15 +99,7 @@
                         </div>
                       </div>
                           <!-- Social media icons-->
-                          <div class="col-lg-7 col-sm-6 col-12">
-                            <ul class="list-unstyled social-icons">
-                              <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                              <li><a href="javascript:void(0)"><i class="fab fa-facebook-square"></i></a></li>
-                              <li><a href="javascript:void(0)"><i class="fab fa-linkedin"></i></a></li>
-                              <li><a href="javascript:void(0)"><i class="fab fa-github-square"></i></a></li>
-                              <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
-                            </ul>
-                          </div>
+                          <Icons />
                     </div>
                   </div>
                 </div>
@@ -561,8 +553,10 @@
 </template>
 
 <script>
+import Icons from '../components/local/Icons.vue'
 export default {
-
+  name: 'About',
+  components: {Icons}
 }
 </script>
 

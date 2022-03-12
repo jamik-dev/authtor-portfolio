@@ -11,8 +11,8 @@
 </template>
 
 <script>
-import Navbar from "../components/Navbar.vue";
-import Preloader from "../components/Preloader.vue";
+import Navbar from "../components/global/Navbar.vue";
+import Preloader from "../components/global/Preloader.vue";
 import { importCss, importJs } from "../helpers/importScript.js";
 export default {
   name: "DefaultLayout",

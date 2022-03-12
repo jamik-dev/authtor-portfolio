@@ -84,15 +84,7 @@
                       </ul>
                     </div>
                     <!-- Social media icons-->
-                    <div class="fixed-block d-flex animate__animated animate__jackInTheBox animate__delay-3s">
-                      <ul class="list-unstyled social-icons p-3">
-                        <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fab fa-facebook-square"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fab fa-linkedin"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fab fa-github-square"></i></a></li>
-                        <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
-                      </ul>
-                    </div>
+                    <Icons />
                   </div>
                   <!-- Contact info End -->
                 </div>
@@ -123,8 +115,10 @@
 </template>
 
 <script>
+import Icons from '../components/local/Icons.vue'
 export default {
-
+  name: 'Contact',
+  components: {Icons}
 }
 </script>
 
