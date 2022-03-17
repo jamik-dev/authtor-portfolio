@@ -1263,44 +1263,52 @@ section {
     animation: animate 4s 1s cubic-bezier(1, 0, 0.5, 1) forwards;
 }
 
-.bar .progress-line.Photoshop span {
-    width: 70%;
+.bar .progress-line.jquery span {
+    width: 60%;
 }
 
-.bar .progress-line.Illustrator span {
-    width: 90%;
+.bar .progress-line.vuejs span {
+    width: 60%;
 }
 
-.bar .progress-line.Figma span {
+.bar .progress-line.vuecli span {
+    width: 85%;
+}
+
+.bar .progress-line.vuex span {
     width: 75%;
 }
 
-.bar .progress-line.Indesign span {
+.bar .progress-line.vuerouter span {
     width: 80%;
 }
 
-.bar .progress-line.Sketch span {
+.bar .progress-line.api span {
     width: 70%;
 }
 
 .bar .progress-line.html span {
-    width: 80%;
+    width: 70%;
 }
 
 .bar .progress-line.css span {
-    width: 60%;
+    width: 80%;
 }
 
-.bar .progress-line.jquery span {
-    width: 85%;
+.bar .progress-line.bootstrap span {
+    width: 65%;
+}
+
+.bar .progress-line.javascript span {
+    width: 70%;
 }
 
 .bar .progress-line.python span {
-    width: 50%;
+    width: 55%;
 }
 
-.bar .progress-line.mysql span {
-    width: 70%;
+.bar .progress-line.c span {
+    width: 45%;
 }
 
 .progress-line span::before {
@@ -1332,43 +1340,51 @@ section {
     animation: showText2 1s 3s linear forwards;
 }
 
-.progress-line.Photoshop span::after {
-    content: "70%";
-}
-
-.progress-line.Illustrator span::after {
-    content: "90%";
-}
-
-.progress-line.Figma span::after {
-    content: "75%";
-}
-
-.progress-line.Indesign span::after {
-    content: "80%";
-}
-
-.progress-line.Sketch span::after {
-    content: "70%";
-}
-
-.progress-line.html span::after {
-    content: "80%";
-}
-
-.progress-line.css span::after {
+.progress-line.vuejs span::after {
     content: "60%";
 }
 
-.progress-line.jquery span::after {
+.progress-line.vuecli span::after {
     content: "85%";
 }
 
-.progress-line.python span::after {
-    content: "50%";
+.progress-line.vuex span::after {
+    content: "75%";
 }
 
-.progress-line.mysql span::after {
+.progress-line.vuerouter span::after {
+    content: "80%";
+}
+
+.progress-line.api span::after {
+    content: "70%";
+}
+
+.progress-line.jquery span::after {
+    content: "60%";
+}
+
+.progress-line.html span::after {
+    content: "70%";
+}
+
+.progress-line.css span::after {
+    content: "80%";
+}
+
+.progress-line.bootstrap span::after {
+    content: "65%";
+}
+
+.progress-line.python span::after {
+    content: "55%";
+}
+
+.progress-line.c span::after {
+    content: "45%";
+}
+
+.progress-line.javascript span::after {
     content: "70%";
 }
 

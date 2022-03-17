@@ -125,21 +125,21 @@
                     <div class=" col-block education ">
                       <h3 class="about-subtitle">Education</h3>
                       <div class="resume-item"><span class="item-arrow"></span>
-                        <h5 class="item-title">Bachelor of Science in Information Technology</h5><span
-                          class="item-details">Cambridge University / 2004 - 2007</span>
+                        <h5 class="item-title">Bachelor of Computer engineering faculty</h5><span
+                          class="item-details">Ajou University in Tashkent / 2021 - 2025</span>
                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                           repudiandae.</p>
                       </div>
                       <div class="resume-item"><span class="item-arrow"></span>
-                        <h5 class="item-title">Master of Science in Information Technology</h5><span
-                          class="item-details">Cambridge University / 2007 - 2009</span>
+                        <h5 class="item-title">Technical Programmer Certificate</h5><span
+                          class="item-details">Karakul lyceum in Bukhara / 2019 - 2021</span>
                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                           repudiandae.</p>
                       </div>
                       <div class="resume-item"><span class="item-arrow"></span>
-                        <h5 class="item-title">Diploma In Web Design</h5><span class="item-details">Cambridge University
+                        <h5 class="item-title">Electronical researches</h5><span class="item-details">15th School in Karshi 
                           /
-                          2009 - 2010</span>
+                          2010 - 2019</span>
                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                           repudiandae.</p>
                       </div>
@@ -150,20 +150,18 @@
                     <div class=" col-block education">
                       <h3 class="about-subtitle">Experience</h3>
                       <div class="resume-item"><span class="item-arrow"></span>
-                        <h5 class="item-title">Lead Ui/Ux Designer</h5><span class="item-details">Google / 2016 -
-                          Current</span>
+                        <h5 class="item-title">Senior Web Developer</h5><span class="item-details">Future</span>
                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                           repudiandae.</p>
                       </div>
                       <div class="resume-item"><span class="item-arrow"></span>
-                        <h5 class="item-title">Senior Ui/Ux Designer</h5><span class="item-details">Adobe / 2013 -
-                          2016</span>
+                        <h5 class="item-title">Middle Web Developer</h5><span class="item-details">Future</span>
                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                           repudiandae.</p>
                       </div>
                       <div class="resume-item"><span class="item-arrow"></span>
-                        <h5 class="item-title">Junior Ui/Ux Designer</h5><span class="item-details">Google / 2011 -
-                          2013</span>
+                        <h5 class="item-title">Junior Web Developer</h5><span class="item-details">OIK group / 2021 -
+                          Present</span>
                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                           repudiandae.</p>
                       </div>
@@ -184,45 +182,53 @@
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-12 ">
-                    <h3 class="about-subtitle">Design <span>Skills</span></h3>
+                    <h3 class="about-subtitle">JavaScript <span>Skills</span></h3>
                     <div class="skill-bars">
                       <div class="bar">
                         <div class="info">
-                          <span>Photoshop</span>
+                          <span>Vue js</span>
                         </div>
-                        <div class="progress-line Photoshop">
+                        <div class="progress-line vuejs">
                           <span></span>
                         </div>
                       </div>
                       <div class="bar">
                         <div class="info">
-                          <span>Illustrator</span>
+                          <span>Vue CLI</span>
                         </div>
-                        <div class="progress-line Illustrator">
+                        <div class="progress-line vuecli">
                           <span></span>
                         </div>
                       </div>
                       <div class="bar">
                         <div class="info">
-                          <span>Figma</span>
+                          <span>Vue X</span>
                         </div>
-                        <div class="progress-line Figma">
+                        <div class="progress-line vuex">
                           <span></span>
                         </div>
                       </div>
                       <div class="bar">
                         <div class="info">
-                          <span>Indesign</span>
+                          <span>Vue router</span>
                         </div>
-                        <div class="progress-line Indesign">
+                        <div class="progress-line vuerouter">
                           <span></span>
                         </div>
                       </div>
                       <div class="bar">
                         <div class="info">
-                          <span>Sketch</span>
+                          <span>Composition API</span>
                         </div>
-                        <div class="progress-line Sketch">
+                        <div class="progress-line api">
+                          <span></span>
+                        </div>
+                      </div>
+                      <div class="bar">
+                        <div class="info">
+                          <span>Jquery</span>
+                        </div>
+                        <div class="progress-line jquery">
                           <span></span>
                         </div>
                       </div>
@@ -233,7 +239,7 @@
                     <div class="skill-bars">
                       <div class="bar">
                         <div class="info">
-                          <span>HTML</span>
+                          <span>HTML5</span>
                         </div>
                         <div class="progress-line html">
                           <span></span>
@@ -241,7 +247,7 @@
                       </div>
                       <div class="bar">
                         <div class="info">
-                          <span>CSS</span>
+                          <span>CSS3</span>
                         </div>
                         <div class="progress-line css">
                           <span></span>
@@ -249,9 +255,17 @@
                       </div>
                       <div class="bar">
                         <div class="info">
-                          <span>jQuery</span>
+                          <span>Bootstrap</span>
                         </div>
-                        <div class="progress-line jquery">
+                        <div class="progress-line bootstrap">
+                          <span></span>
+                        </div>
+                      </div>
+                      <div class="bar">
+                        <div class="info">
+                          <span>JavaScript</span>
+                        </div>
+                        <div class="progress-line javascript">
                           <span></span>
                         </div>
                       </div>
@@ -265,9 +279,9 @@
                       </div>
                       <div class="bar">
                         <div class="info">
-                          <span>MySQL</span>
+                          <span>C</span>
                         </div>
-                        <div class="progress-line mysql">
+                        <div class="progress-line c">
                           <span></span>
                         </div>
                       </div>
